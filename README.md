@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, welcome to my GitHub.
+---
+## My name is Wayne and I am a Software Engineer based out of Sydney
 
 <!--
 **Wckenny14/Wckenny14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
