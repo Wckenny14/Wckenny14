@@ -14,7 +14,10 @@
 
 ## Tech stack I use:
 
-- Front-end: ReactJS | VueJS, BootStrap, SCSS
+- Front-end: ReactJS, VueJS, BootStrap, SCSS
 - Back-end: NodeJS, Ruby on Rails, ExpressJS
 - Languages: JavaScript, Ruby, SQL
+- Databases: PostgreSQL, MySQL, MongoDB
+- Deployment: Netlify, GitHub, Firebase, Heroku
+- Version control: Git
 
