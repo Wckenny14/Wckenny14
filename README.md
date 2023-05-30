@@ -9,6 +9,7 @@
 - 📫 How to reach me: 
 1. https://www.linkedin.com/in/wayne-c-kenny/
 2. wayne.kenny03@gmail.com
+3. https://waynekenny.netlify.app/
 
 - 😄 Pronouns: He/Him
 
